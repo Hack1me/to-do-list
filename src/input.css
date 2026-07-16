@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme{
+
+
+}
+@layer components{
+    .btn{
+        @apply bg-blue-600 
+    }
+}
